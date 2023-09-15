@@ -149,14 +149,14 @@ tensorflow-datasets==4.7.0
 tensorflow-io-gcs-filesystem==0.26.0
 tensorflow-metadata==1.10.0
 tensorflow-probability==0.17.0
-tensorflow-text-nightly==2.12.0.dev20230203
+tensorflow-text-nightly==2.13.0.dev20230424
 tensorstore==0.1.22
 termcolor==1.1.0
 terminado==0.17.0
 tf-agents==0.14.0
-tf-estimator-nightly==2.13.0.dev2023020509
+tf-estimator-nightly==2.15.0.dev2023091408
 tf-hub-nightly==0.13.0.dev202302070818
-tf-nightly==2.12.0.dev20230203
+tf-nightly==2.15.0.dev20230914
 toml==0.10.2
 toolz==0.12.0
 torch==1.13.1
